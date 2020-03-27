@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aauguide.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-03-27T01:33:00.428Z</updated>
+    <title>上古世纪：无界</title>
+    <updated>2020-03-27T02:56:03.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aauguide.github.io"/>
     <link rel="self" href="https://aauguide.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>上古世界买断服指南</subtitle>
     <logo>https://aauguide.github.io/images/avatar.png</logo>
     <icon>https://aauguide.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, 上古世纪：无界</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://aauguide.github.io/post/hello-gridea/</id>
-        <link href="https://aauguide.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[【活动】2020/3/27更新-摇滚卷轴（3月27日-4月23日）]]></title>
+        <id>https://aauguide.github.io/post/huo-dong-2020327-geng-xin-yao-gun-juan-zhou-3-yue-27-ri-4-yue-23-ri/</id>
+        <link href="https://aauguide.github.io/post/huo-dong-2020327-geng-xin-yao-gun-juan-zhou-3-yue-27-ri-4-yue-23-ri/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <updated>2020-03-27T02:37:30.000Z</updated>
+        <content type="html"><![CDATA[<p>##活动准备<br>
+每个账号只能购买2次，建议买给大号<br>
+打开右下角商城-&gt;花50星星购买1个Ruby宝石<br>
+每在线1个小时，就会收到一封邮件（不管你买不买宝石都会给你），包含一个宝石强化卷轴，可将宝石强化最高至太初，不同等级的宝石可以换不同的奖励。挂机活动，可以去审判大厅卡座位。<br>
+不用的卷轴可以换1个星星</p>
+<p>##活动奖励<br>
+Ruby (Rank 1) – 50 星星<br>
+Garnet (Rank 2) – 2x 装备结晶卷轴<br>
+Topaz (Rank 3) – 4x 一级荣誉药水<br>
+Citrine (Rank 4) – 绑定翻新石头箱子<br>
+Emerald (Rank 5) – 粉色兔子(同商城140勤务币的兔子)<br>
+Jade (Rank 6) – 夜火滑翔翼 (青炎的振翅3超1高)<br>
+Sapphire (Rank 7) – 绑定翻新石头箱子 <em>5<br>
+Aquamarine (Rank 8) – 洗装备词条石头箱子 x5<br>
+Crystal (Rank 9) – 蓝瓶子 x200<br>
+Zircon (Rank 10) – 墨雷(飞马？技能不确定)<br>
+Diamond (Rank 11) – 神赐洗装备词条石头箱子</em> 1(概率开出更多)<br>
+Prismatic Diamond (Rank 12) – 太初箱子{<br>
+选择一个奖励:<br>
+1瓶太初古代药水<br>
+1瓶太初图书馆药水<br>
+更好的洗装备词条石头箱子1个<br>
+转甲卷轴*4<br>
+}</p>
 ]]></content>
     </entry>
 </feed>
