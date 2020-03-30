@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aauguide.github.io</id>
     <title>ArcheAge:Unchained</title>
-    <updated>2020-03-30T09:56:53.155Z</updated>
+    <updated>2020-03-30T09:57:34.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aauguide.github.io"/>
     <link rel="self" href="https://aauguide.github.io/atom.xml"/>
@@ -10,33 +10,6 @@
     <logo>https://aauguide.github.io/images/avatar.png</logo>
     <icon>https://aauguide.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, ArcheAge:Unchained</rights>
-    <entry>
-        <title type="html"><![CDATA[上古世纪买断服新手指南（四）-生活指南]]></title>
-        <id>https://aauguide.github.io/post/shang-gu-shi-ji-mai-duan-fu-xin-shou-zhi-nan-si-sheng-huo-zhi-nan/</id>
-        <link href="https://aauguide.github.io/post/shang-gu-shi-ji-mai-duan-fu-xin-shou-zhi-nan-si-sheng-huo-zhi-nan/">
-        </link>
-        <updated>2020-03-30T08:41:09.000Z</updated>
-        <content type="html"><![CDATA[<p>待更新</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上古世纪买断服新手指南（三）-职业选择和装备洗练]]></title>
-        <id>https://aauguide.github.io/post/shang-gu-shi-ji-mai-duan-fu-xin-shou-zhi-nan-san-zhi-ye/</id>
-        <link href="https://aauguide.github.io/post/shang-gu-shi-ji-mai-duan-fu-xin-shou-zhi-nan-san-zhi-ye/">
-        </link>
-        <updated>2020-03-30T08:38:07.000Z</updated>
-        <content type="html"><![CDATA[<p>待更新</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上古世纪买断服新手指南番外篇-对线金句]]></title>
-        <id>https://aauguide.github.io/post/mai-duan-fu-xin-shou-zhi-nan-fan-wai-pian-dui-xian-jin-ju/</id>
-        <link href="https://aauguide.github.io/post/mai-duan-fu-xin-shou-zhi-nan-fan-wai-pian-dui-xian-jin-ju/">
-        </link>
-        <updated>2020-03-30T08:26:19.000Z</updated>
-        <content type="html"><![CDATA[<p>待更新</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[上古世纪买断服新手指南（二）服务器选择及新手基础]]></title>
         <id>https://aauguide.github.io/post/aau-shang-gu-shi-ji-mai-duan-fu-xin-shou-zhi-nan-er/</id>
