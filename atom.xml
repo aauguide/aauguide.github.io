@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aauguide.github.io</id>
     <title>ArcheAge:Unchained</title>
-    <updated>2020-03-30T09:57:59.442Z</updated>
+    <updated>2020-03-31T02:28:54.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aauguide.github.io"/>
     <link rel="self" href="https://aauguide.github.io/atom.xml"/>
@@ -16,91 +16,13 @@
         <link href="https://aauguide.github.io/post/aau-shang-gu-shi-ji-mai-duan-fu-xin-shou-zhi-nan-er/">
         </link>
         <updated>2020-03-28T19:27:03.000Z</updated>
-        <content type="html"><![CDATA[<p>待更</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【活动】2020/3/27更新-摇滚卷轴（3月27日-4月23日）]]></title>
-        <id>https://aauguide.github.io/post/huo-dong-2020327-geng-xin-yao-gun-juan-zhou-3-yue-27-ri-4-yue-23-ri/</id>
-        <link href="https://aauguide.github.io/post/huo-dong-2020327-geng-xin-yao-gun-juan-zhou-3-yue-27-ri-4-yue-23-ri/">
-        </link>
-        <updated>2020-03-27T02:37:30.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="活动准备">活动准备</h1>
-<p>每个账号只能购买2次，建议买给大号<br>
-打开右下角商城-&gt;花50星星购买1个Ruby宝石<br>
-<img src="https://aauguide.github.io/post-images/1585278183623.png" alt="" loading="lazy"><br>
-每在线1个小时，就会收到一封邮件（不管你买不买宝石都会给你），包含一个宝石强化卷轴，可将宝石强化最高至太初，不同等级的宝石可以在幻想岛换不同的奖励。炒鸡香的挂机活动，可以去审判大厅卡座位。<br>
-不用的卷轴可以卖掉换1个星星</p>
-<h1 id="活动奖励">活动奖励</h1>
-<p>Ruby (Rank 1) – 50 星星</p>
-<p>Garnet (Rank 2) – 2x 装备结晶卷轴</p>
-<p>Topaz (Rank 3) – 4x 一级荣誉药水 【共4W荣誉】</p>
-<p>Citrine (Rank 4) – 绑定翻新石头箱子<br>
-【2个光辉武器翻新石头，8个光辉防具翻新石头，30个武器翻新石头，30个防具翻新石头】</p>
-<p>Emerald (Rank 5) – 粉色兔子【同商城140勤务币的兔子】</p>
-<p>Jade (Rank 6) – 夜火滑翔翼<br>
-<img src="https://aauguide.github.io/post-images/1585419138575.png" alt="" loading="lazy"></p>
-<p>Sapphire (Rank 7) – 绑定翻新石头箱子 *5<br>
-【共10个光辉武器翻新石头，40个光辉防具翻新石头，150个武器翻新石头，150个防具翻新石头】</p>
-<p>Aquamarine (Rank 8) – 洗装备词条石头箱子<br>
-<img src="https://aauguide.github.io/post-images/1585419511665.png" alt="" loading="lazy"></p>
-<p>Crystal (Rank 9) – 古代蓝瓶子 x200</p>
-<p>Zircon (Rank 10) – 墨雷<br>
-<img src="https://aauguide.github.io/post-images/1585419594046.png" alt="" loading="lazy"></p>
-<p>Diamond (Rank 11) – 神赐的选择箱子<br>
-【可以选其中一种：神赐古代药水盒子<em>1 ；神赐图书馆药水盒子</em>1；洗装备词条石头箱子<em>1（同上）；转甲卷轴</em>2（可交易）】<br>
-<img src="https://aauguide.github.io/post-images/1585419727535.png" alt="" loading="lazy"></p>
-<p>Prismatic Diamond (Rank 12) – 太初箱子<br>
-【可以选其中一种：太初古代药水盒子<em>1 ；太初图书馆药水盒子</em>1；更好的洗装备词条石头箱子<em>1（更好）；转甲卷轴</em>4（可交易）】<br>
-<img src="https://aauguide.github.io/post-images/1585419736617.png" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[上古世纪买断服新手指南（一）游戏购买及下载]]></title>
-        <id>https://aauguide.github.io/post/aau-shang-gu-shi-ji-mai-duan-fu-xin-shou-zhi-nan-yi/</id>
-        <link href="https://aauguide.github.io/post/aau-shang-gu-shi-ji-mai-duan-fu-xin-shou-zhi-nan-yi/">
-        </link>
-        <updated>2020-03-26T11:41:40.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="0x01-前言">0x01 前言</h1>
-<p>写给新人，无论你是否玩过国服，无论你从哪儿get到这个游戏，这里都欢迎你。迫于国服玩不起，又喜欢这个游戏，所以只能来买断服养养老，之前看到QQ群里很多加进来的小伙伴问问题没人管，也有没法看群文件的，所以这里统一来做个新人入坑指南，希望大家都能顺利入坑。</p>
-<p>入买断服需要的心里准备：</p>
-<ol>
-<li>需要买加速器，一年100多点</li>
-<li>延迟:大城市和沿海的延迟在150-160左右，部分地区在200左右,但是对大部分游玩体验无影响</li>
-<li>看得懂26个英文字母。有很多人说买断服没有汉化，目前已经有国人做了汉化补丁，新手可以考虑打补丁或者在国服了解下游戏。国服老司机可以不用打，常用话术和物品名字玩个2周基本上就能记住了，这些随后都会更新出来。我的建议是玩纯英文，还能顺便学英语（狗头）</li>
-</ol>
-<p>买断服交流群：586242963<br>
-工会推荐：T服东大陆  Ur name</p>
-<h1 id="0x02-购买账号">0x02 购买账号</h1>
-<ul>
-<li>
-<p>准备 VPN （这个不在网站介绍了，可以群里私下问）</p>
-</li>
-<li>
-<p>准备 一个outlook邮箱 或者 谷歌邮箱。不建议用steam跨锁区购买，这样后期号好卖<br>
-https://outlook.live.com/owa/</p>
-</li>
-<li>
-<p>成功翻墙后，打开Glyph平台官网，点击右上角注册，这里注意要保持全局翻墙，且不要把网页翻译成中文，切记！<br>
-https://store.trionworlds.com/account/profile/manage-game!input.action?dd=1<br>
-<img src="https://aauguide.github.io/post-images/1585421774643.png" alt="" loading="lazy"></p>
-</li>
-<li>
-<p>注册完成后，你可以点击上边的install下载平台，然后点下边的图标同时购买游戏，这一步你可以淘宝购买KK卡充值来买，或者找淘宝代购来买。一共有3种规格，分别是25刀，50刀，80刀， 没有战斗力上的区别，更贵的只是多赠送了时装外观和钻石（只能用来购买时装家具幻化等非战斗力道具），建议注册2个邮箱买2个25刀的号，最划算。<br>
-<img src="https://aauguide.github.io/post-images/1585422437042.png" alt="" loading="lazy"></p>
-</li>
-</ul>
-<h1 id="0x03-下载游戏">0x03 下载游戏</h1>
-<p>注意：必须购买游戏才可以下载</p>
-<ul>
-<li>准备一个游戏加速器，这里推荐雷神/玲珑/腾讯网游加速器，都可以，根据自己的实际网络来选择。</li>
-<li>选择上古世纪美服/国际服开启加速，然后管理员模式启动Glyph平台，必须开加速器才能登录。</li>
-<li>右上角登录，登录成功后可以关掉加速器，然后点击下载游戏，注意右上角区服要选择North America。如果你关了加速器下载不了，那么再开启它。<br>
-<img src="https://aauguide.github.io/post-images/1585422980867.png" alt="" loading="lazy"></li>
-</ul>
-<h1 id="0x04-其他问题汇总">0x04 其他问题汇总</h1>
-<p>综合解决办法：重启电脑-&gt;关闭杀软-&gt;打开加速器并加速-&gt;管理员模式启动Glyph-&gt;登录游戏</p>
-<p>平台客户端更新卡住解决办法：挂VPN或者加速器。</p>
+        <content type="html"><![CDATA[<h1 id="0x01-服务器选择">0x01 服务器选择</h1>
+<p>一句话：NA-选T服-东大陆<br>
+<img src="https://aauguide.github.io/post-images/1585568076269.png" alt="" loading="lazy"><br>
+说明一下，之前贴吧里T服没什么人去喊着收人，R服喊收人的比较多，可以理解，但是R服个别智障在贴吧说“T服人是所有服务器人最少的”这种鬼话欺骗萌新去R服，我就不能忍了，晒一张最近活动各个服务器状态图，大家自行体会。T服 活跃度是最高的，也是最早开服的3个主要服务器之一，国人主要集中在东大陆，做活动，找人带，加工会，每日任务，PVP，PVE，买卖等等都是很好找人，游戏体验丰富，东西大陆势力基本平衡，且东大有内战，和老外打老外，每天都很开心，种地也不是问题，可以直接买地或者守到期的地。<br>
+W服国人主要在西大陆，W服东大比较强势，W西需要抗压。嗯，就这样。</p>
+<h1 id="0x02-新手基础">0x02 新手基础</h1>
+<p>以下介绍均以东大陆视角：</p>
 ]]></content>
     </entry>
 </feed>
