@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aauguide.github.io</id>
     <title>ArcheAge:Unchained</title>
-    <updated>2020-04-03T01:01:34.376Z</updated>
+    <updated>2020-04-08T02:11:10.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aauguide.github.io"/>
     <link rel="self" href="https://aauguide.github.io/atom.xml"/>
@@ -11,42 +11,61 @@
     <icon>https://aauguide.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, ArcheAge:Unchained</rights>
     <entry>
-        <title type="html"><![CDATA[ 【更新】2020/4/2更新-灯笼节开启！]]></title>
+        <title type="html"><![CDATA[【必读！】入坑须知]]></title>
+        <id>https://aauguide.github.io/post/Y8vz4nWfg/</id>
+        <link href="https://aauguide.github.io/post/Y8vz4nWfg/">
+        </link>
+        <updated>2020-04-08T01:19:45.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="0x01-前言">0x01 前言</h1>
+<p>写给新人，无论你是否玩过国服，无论你从哪儿get到这个游戏，这里都欢迎你。鄙人迫于国服实在玩不起，又深深热爱这个游戏，抱着试试看的态度来了买断服，结果发现真香！这才是这个游戏本来应该有的样子，充钱你很厉害，但是肝的人一样也很厉害，不存在国服特色1挑1个团。之前看到QQ群里很多加进来的小伙伴问问题没人管，也有没法看群文件的，所以这里统一来做个新人入坑指南，希望大家都能顺利入坑。</p>
+<h1 id="0x02-买断服真香真香">0x02 买断服真香？真香！</h1>
+<p>1.古代装备不是国服的阉割古代，宗师也不是国服的强化宗师。装备强度系数均衡，每天玩也能跟上进度。<br>
+2.不吃策划的屎，没有按着你的脑袋必须去氪金的项目，游戏的所有内容（包括宗师和手工石头）都是不用花钱的，商城的可氪金内容都是无属性外观和家具。<br>
+3.季票PASS任务+商城每周白嫖，奖励丰厚的一匹。同时又不像私服那样BT。<br>
+4.单币制，无会员，在线离线劳动力均可回复<br>
+5.气氛活跃，游戏活动等更新频繁，是韩服以外游戏版本更新最快的</p>
+<h1 id="0x03需要注意的事情">0x03需要注意的事情！</h1>
+<p>入买断服需要的心里准备：</p>
+<ol>
+<li>需要买加速器，一年100多点</li>
+<li>延迟:大城市和沿海的延迟在150-160左右，部分地区在200左右,但是对大部分游玩体验无明显影响。</li>
+<li>看得懂26个英文字母。有很多人说买断服没有汉化，目前已经有国人做了汉化补丁，新手可以考虑打补丁或者在国服了解下游戏。国服老司机可以不用打，常用话术和物品名字玩个2周基本上就能记住了，这些随后都会更新出来。我的建议是玩纯英文，还能顺便学英语（狗头）</li>
+</ol>
+<h1 id="0x04-服务器选择">0x04 服务器选择</h1>
+<p>一句话：NA-选T服-东大陆<br>
+<img src="https://aauguide.github.io/post-images/1585568076269.png" alt="" loading="lazy"><br>
+说明一下，之前贴吧里T服没什么人去喊着收人，因为本来人就很多，大家忙着打架发育，没空去贴吧喊。R服喊收人的比较多，可以理解，但是R服个别智障在贴吧说“T服人是所有服务器人最少的”这种鬼话欺骗萌新去R服，我就不能忍了，晒一张最近活动各个服务器状态图，大家自行体会。</p>
+<p>说下服务器的事，T服活跃度是最高的，也是最早开服的3个主要服务器（TWD）之一，因为开服就爆满，后来的玩家没地方建号，增开了KRJ 三个服务器，再后来官方对TWD进行了扩容，加上开服热过去，TWD现在足够用了，而KRJ基本上是凉的。</p>
+<p>T服国人主要集中在东大陆，做活动，找人带，加工会，每日任务，PVP，PVE，买卖等等都是很好找人，游戏体验丰富，东西大陆势力基本平衡，东大略强，且东大有内战，和老外打老外，每天都很开心。新人不要担心没有地，首先有公共农场，其次老玩家基本上有很多的地，如果需要种材料，可以找国人代工，而且现在有不少到期的地，也有很多偏僻的空地，可以去蹲。</p>
+<h1 id="买断服na全区qq交流群586242963">买断服NA全区QQ交流群：586242963</h1>
+<h1 id="买断服t服债券及更新公告群893338934">买断服T服债券及更新公告群：893338934</h1>
+<h1 id="工会推荐t服东大陆-ur-name-stars-每晚8点半-性感会长在线捣蛋">工会推荐：T服东大陆  《Ur name》 《 Stars》   每晚8点半 性感会长在线捣蛋</h1>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ 【服务器日常更新汇总】-植树节活动！]]></title>
         <id>https://aauguide.github.io/post/geng-xin-202042-geng-xin-deng-long-jie-kai-qi/</id>
         <link href="https://aauguide.github.io/post/geng-xin-202042-geng-xin-deng-long-jie-kai-qi/">
         </link>
         <updated>2020-04-03T00:52:44.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="更新内容">更新内容</h1>
+        <content type="html"><![CDATA[<p>#2020/4/8更新-植树节活动<br>
+简单的介绍下：就是一个氪金活动，买不同的礼包，然后游戏内会给你道具，大概看了下，都是一些家具，活动滑翔翼，幻化粉末，称号，高级季票之类的，没有太大价值，就不翻译了，感兴趣的可以看下。<br>
+https://charity.gamigo.com/en/packages.html?game=aa-unchained<br>
+<img src="https://aauguide.github.io/post-images/1586311490223.png" alt="" loading="lazy"></p>
+<h1 id="202042更新-灯笼节开启">2020/4/2更新-灯笼节开启！</h1>
+<p>更新内容</p>
 <ol>
 <li>The Mistsong Banquet（烟飨） 现在关闭直到重做完成后开启。</li>
 <li>灯笼节开启！</li>
 </ol>
-<h1 id="灯笼节活动介绍每日">灯笼节活动介绍（每日）</h1>
-<p>准备材料：<br>
-50铁锭  10纸张 5个记忆墨水</p>
-<p>在奥港英雄大厅角落开启了橙色的活动传送门，直接传送即可<br>
-通过接取任务，交材料，采集，制作灯笼，放灯笼等获取活动硬币<br>
+<p>灯笼节活动介绍（每日）  准备材料：50铁锭  10纸张 5个记忆墨水<br>
+在奥港英雄大厅角落开启了橙色的活动传送门，直接传送即可<br>
+通过接取任务，交材料，采集，制作灯笼，放灯笼等获取活动硬币，硬币可在幻想岛自动兑换机兑换各种家具和药水，下图是其中一环任务要抓的小东西。<br>
 <img src="https://aauguide.github.io/post-images/1585875628164.png" alt="" loading="lazy"></p>
-<p>硬币可在幻想岛自动兑换机兑换各种家具和药水</p>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上古世纪买断服新手指南（二）服务器选择及新手基础]]></title>
-        <id>https://aauguide.github.io/post/aau-shang-gu-shi-ji-mai-duan-fu-xin-shou-zhi-nan-er/</id>
-        <link href="https://aauguide.github.io/post/aau-shang-gu-shi-ji-mai-duan-fu-xin-shou-zhi-nan-er/">
-        </link>
-        <updated>2020-03-28T19:27:03.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="0x01-服务器选择">0x01 服务器选择</h1>
-<p>一句话：NA-选T服-东大陆<br>
-<img src="https://aauguide.github.io/post-images/1585568076269.png" alt="" loading="lazy"><br>
-说明一下，之前贴吧里T服没什么人去喊着收人，R服喊收人的比较多，可以理解，但是R服个别智障在贴吧说“T服人是所有服务器人最少的”这种鬼话欺骗萌新去R服，我就不能忍了，晒一张最近活动各个服务器状态图，大家自行体会。T服 活跃度是最高的，也是最早开服的3个主要服务器之一，国人主要集中在东大陆，做活动，找人带，加工会，每日任务，PVP，PVE，买卖等等都是很好找人，游戏体验丰富，东西大陆势力基本平衡，且东大有内战，和老外打老外，每天都很开心，种地也不是问题，可以直接买地或者守到期的地。<br>
-W服国人主要在西大陆，W服东大比较强势，W西需要抗压。嗯，就这样。</p>
-<h1 id="0x02-新手基础">0x02 新手基础</h1>
-<p>以下介绍均以东大陆视角：</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【活动】2020/3/27更新-摇滚卷轴（3月27日-4月23日）]]></title>
+        <title type="html"><![CDATA[【活动】2020/3/27-摇滚卷轴（3月27日-4月23日）]]></title>
         <id>https://aauguide.github.io/post/huo-dong-2020327-geng-xin-yao-gun-juan-zhou-3-yue-27-ri-4-yue-23-ri/</id>
         <link href="https://aauguide.github.io/post/huo-dong-2020327-geng-xin-yao-gun-juan-zhou-3-yue-27-ri-4-yue-23-ri/">
         </link>
@@ -85,22 +104,12 @@ W服国人主要在西大陆，W服东大比较强势，W西需要抗压。嗯�
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[上古世纪买断服新手指南（一）游戏购买及下载]]></title>
+        <title type="html"><![CDATA[【新手】买断服游戏购买及下载]]></title>
         <id>https://aauguide.github.io/post/aau-shang-gu-shi-ji-mai-duan-fu-xin-shou-zhi-nan-yi/</id>
         <link href="https://aauguide.github.io/post/aau-shang-gu-shi-ji-mai-duan-fu-xin-shou-zhi-nan-yi/">
         </link>
         <updated>2020-03-26T11:41:40.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="0x01-前言">0x01 前言</h1>
-<p>写给新人，无论你是否玩过国服，无论你从哪儿get到这个游戏，这里都欢迎你。迫于国服玩不起，又喜欢这个游戏，所以只能来买断服养养老，之前看到QQ群里很多加进来的小伙伴问问题没人管，也有没法看群文件的，所以这里统一来做个新人入坑指南，希望大家都能顺利入坑。</p>
-<p>入买断服需要的心里准备：</p>
-<ol>
-<li>需要买加速器，一年100多点</li>
-<li>延迟:大城市和沿海的延迟在150-160左右，部分地区在200左右,但是对大部分游玩体验无影响</li>
-<li>看得懂26个英文字母。有很多人说买断服没有汉化，目前已经有国人做了汉化补丁，新手可以考虑打补丁或者在国服了解下游戏。国服老司机可以不用打，常用话术和物品名字玩个2周基本上就能记住了，这些随后都会更新出来。我的建议是玩纯英文，还能顺便学英语（狗头）</li>
-</ol>
-<p>买断服交流群：586242963<br>
-工会推荐：T服东大陆  Ur name</p>
-<h1 id="0x02-购买账号">0x02 购买账号</h1>
+        <content type="html"><![CDATA[<h1 id="0x01-购买账号">0x01 购买账号</h1>
 <ul>
 <li>
 <p>准备 VPN （这个不在网站介绍了，可以群里私下问）</p>
@@ -119,7 +128,7 @@ https://store.trionworlds.com/account/profile/manage-game!input.action?dd=1<br>
 <img src="https://aauguide.github.io/post-images/1585422437042.png" alt="" loading="lazy"></p>
 </li>
 </ul>
-<h1 id="0x03-下载游戏">0x03 下载游戏</h1>
+<h1 id="0x02-下载游戏">0x02 下载游戏</h1>
 <p>注意：必须购买游戏才可以下载</p>
 <ul>
 <li>准备一个游戏加速器，这里推荐雷神/玲珑/腾讯网游加速器，都可以，根据自己的实际网络来选择。</li>
@@ -127,7 +136,7 @@ https://store.trionworlds.com/account/profile/manage-game!input.action?dd=1<br>
 <li>右上角登录，登录成功后可以关掉加速器，然后点击下载游戏，注意右上角区服要选择North America。如果你关了加速器下载不了，那么再开启它。<br>
 <img src="https://aauguide.github.io/post-images/1585422980867.png" alt="" loading="lazy"></li>
 </ul>
-<h1 id="0x04-其他问题汇总">0x04 其他问题汇总</h1>
+<h1 id="0x03-其他问题汇总">0x03 其他问题汇总</h1>
 <p>综合解决办法：重启电脑-&gt;关闭杀软-&gt;打开加速器并加速-&gt;管理员模式启动Glyph-&gt;登录游戏</p>
 <p>平台客户端更新卡住解决办法：挂VPN或者加速器。</p>
 ]]></content>
