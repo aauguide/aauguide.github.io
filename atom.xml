@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aauguide.github.io</id>
     <title>ArcheAge:Unchained</title>
-    <updated>2020-04-09T01:22:13.694Z</updated>
+    <updated>2020-04-09T01:27:05.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aauguide.github.io"/>
     <link rel="self" href="https://aauguide.github.io/atom.xml"/>
@@ -44,8 +44,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[ 【服务器日常更新汇总】-4月10日 装备提升折扣！]]></title>
-        <id>https://aauguide.github.io/post/geng-xin-202042-geng-xin-deng-long-jie-kai-qi/</id>
-        <link href="https://aauguide.github.io/post/geng-xin-202042-geng-xin-deng-long-jie-kai-qi/">
+        <id>https://aauguide.github.io/post/gengxin/</id>
+        <link href="https://aauguide.github.io/post/gengxin/">
         </link>
         <updated>2020-04-03T00:52:44.000Z</updated>
         <content type="html"><![CDATA[<h1 id="2020410更新-喂装备折扣幻想岛活动">2020/4/10更新-喂装备折扣+幻想岛活动</h1>
