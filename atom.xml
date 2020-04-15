@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aauguide.github.io</id>
     <title>ArcheAge:Unchained</title>
-    <updated>2020-04-10T01:23:30.635Z</updated>
+    <updated>2020-04-15T01:45:45.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aauguide.github.io"/>
     <link rel="self" href="https://aauguide.github.io/atom.xml"/>
@@ -43,12 +43,20 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ 【服务器日常更新汇总】-4月10日 装备提升折扣！]]></title>
+        <title type="html"><![CDATA[ 【服务器日常更新汇总】-4月14日 游戏客户端更新问题]]></title>
         <id>https://aauguide.github.io/post/gengxin/</id>
         <link href="https://aauguide.github.io/post/gengxin/">
         </link>
         <updated>2020-04-03T00:52:44.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="2020410更新-喂装备折扣幻想岛活动">2020/4/10更新-喂装备折扣+幻想岛活动</h1>
+        <content type="html"><![CDATA[<h1 id="2020414客户端更新-下载离线包">2020/4/14客户端更新-下载离线包</h1>
+<p>链接：https://lanzous.com/ibcvxna<br>
+更新时间：4月14号<br>
+客户端：Glyph（Steam不支持）<br>
+下载方式：普通下载<br>
+启动方式：右键管理员运行<br>
+等待时间：20~30s<br>
+选择方式：修复</p>
+<h1 id="2020410更新-喂装备折扣幻想岛活动">2020/4/10更新-喂装备折扣+幻想岛活动</h1>
 <p><strong>喂装备折扣：</strong><br>
 进入所在势力的英雄大厅，找到一个憨憨布偶，站在他跟前，确保自己获得了一个BUFF，然后开始喂装备，有些翻译的不好，大家自己看英文对照一下</p>
 <p><strong>50%金币折扣：</strong></p>
@@ -195,7 +203,7 @@ PS：从30级黄金平原开始，所有任务全部做，记得打开PASS任务
 <p>准备 VPN （这个不在网站介绍了，可以群里私下问）</p>
 </li>
 <li>
-<p>准备 一个outlook邮箱 或者 谷歌邮箱（建议）。不建议用steam跨锁区购买，这样后期号好卖<br>
+<p>准备 一个outlook邮箱 或者 谷歌邮箱（建议）。不建议用steam跨锁区购买，steam跨区下载游戏有各种奇怪的问题，如果遇到问题只能自己琢磨着解决，因为群里绝大部分都是Glyph平台直接买的。<br>
 https://outlook.live.com/owa/</p>
 </li>
 <li>
