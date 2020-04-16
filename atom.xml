@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aauguide.github.io</id>
     <title>ArcheAge:Unchained</title>
-    <updated>2020-04-15T01:45:45.255Z</updated>
+    <updated>2020-04-16T00:50:57.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aauguide.github.io"/>
     <link rel="self" href="https://aauguide.github.io/atom.xml"/>
@@ -51,11 +51,12 @@
         <content type="html"><![CDATA[<h1 id="2020414客户端更新-下载离线包">2020/4/14客户端更新-下载离线包</h1>
 <p>链接：https://lanzous.com/ibcvxna<br>
 更新时间：4月14号<br>
-客户端：Glyph（Steam不支持）<br>
+客户端：原生态Glyph（Steam不支持、修改路径过的G平台会重置路径）<br>
 下载方式：普通下载<br>
 启动方式：右键管理员运行<br>
 等待时间：20~30s<br>
-选择方式：修复</p>
+选择方式：修复<br>
+<img src="https://aauguide.github.io/post-images/1586998251482.png" alt="" loading="lazy"></p>
 <h1 id="2020410更新-喂装备折扣幻想岛活动">2020/4/10更新-喂装备折扣+幻想岛活动</h1>
 <p><strong>喂装备折扣：</strong><br>
 进入所在势力的英雄大厅，找到一个憨憨布偶，站在他跟前，确保自己获得了一个BUFF，然后开始喂装备，有些翻译的不好，大家自己看英文对照一下</p>
