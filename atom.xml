@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aauguide.github.io</id>
     <title>ArcheAge:Unchained</title>
-    <updated>2020-04-16T01:42:25.647Z</updated>
+    <updated>2020-04-16T12:04:31.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aauguide.github.io"/>
     <link rel="self" href="https://aauguide.github.io/atom.xml"/>
@@ -43,12 +43,16 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ 【服务器日常更新汇总】-4月14日 游戏客户端更新问题]]></title>
+        <title type="html"><![CDATA[ 【服务器日常更新汇总】-4月17日更新 第三季PASS+运西瓜活动!]]></title>
         <id>https://aauguide.github.io/post/gengxin/</id>
         <link href="https://aauguide.github.io/post/gengxin/">
         </link>
         <updated>2020-04-03T00:52:44.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="2020414客户端更新-下载离线包">2020/4/14客户端更新-下载离线包</h1>
+        <content type="html"><![CDATA[<h1 id="2020417更新-第三季pass开启运西瓜活动">2020/4/17更新 第三季PASS开启+运西瓜活动！</h1>
+<p>2020/4/16 晚上11点停机维护，预计时间3小时，更新内容为开启第三季季票，开启运西瓜活动。</p>
+<p>已知问题：新的季票的第4/9/14/24/29/39/44 级给的奖励还是韩文，没有翻译过来，其实就是一个盒子，包含荣誉药水或者生活点药水<br>
+详细信息等官方更新</p>
+<h1 id="2020414客户端更新-下载离线包">2020/4/14客户端更新-下载离线包</h1>
 <p>链接：https://lanzous.com/ibcvxna<br>
 更新时间：4月14号<br>
 客户端：原生态Glyph（Steam不支持、修改路径过的G平台会重置路径）<br>
