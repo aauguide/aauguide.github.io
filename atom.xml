@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://aauguide.github.io</id>
     <title>ArcheAge:Unchained</title>
-    <updated>2020-05-02T06:53:43.690Z</updated>
+    <updated>2021-03-26T15:52:59.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://aauguide.github.io"/>
     <link rel="self" href="https://aauguide.github.io/atom.xml"/>
     <subtitle>上古世界买断服指南</subtitle>
     <logo>https://aauguide.github.io/images/avatar.png</logo>
     <icon>https://aauguide.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, ArcheAge:Unchained</rights>
+    <rights>All rights reserved 2021, ArcheAge:Unchained</rights>
     <entry>
         <title type="html"><![CDATA[【进阶】全身装备指南]]></title>
         <id>https://aauguide.github.io/post/gMyFeKr2m/</id>
